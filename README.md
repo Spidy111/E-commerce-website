@@ -1,4 +1,4 @@
-﻿# E-commerce-website
+﻿# E-Commerce Website
 
 # E-Commerce Frontend - React.js Project
 This project is a React.js-based frontend for an e-commerce platform. It provides a dynamic and responsive user interface for seamless shopping experiences.
@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ## Installation and Setup
 ### 1. Clone the repository
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/Spidy111/E-commerce-website.git
+cd E-commerce
 ```
 ### 2. Install dependencies
 ```bash
@@ -37,7 +37,7 @@ REACT_APP_RAZORPAY_KEY=<Your Razorpay Public Key>
 #### 4. Run the application
 Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 The application will be available at `http://localhost:3000`.
 
@@ -103,7 +103,7 @@ Update the following properties in the `application.properties` file:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/Spidy111/E-commerce-website.git
 cd <project_directory>
 ```
 
